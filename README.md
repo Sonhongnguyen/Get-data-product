@@ -1,9 +1,13 @@
 .ENV file
+
 TARGET_STORE_DOMAIN= { your-store.myshopify.com }
 
 ADMIN_ACCESS_TOKEN= { shpat_'your-key' }
 
 SOURCE_STORE_DOMAIN= {www.(domain-store-get)}
+
+SETUP
+
 
 Tạo thư mục mới và chạy lệnh: npm init -y
 
